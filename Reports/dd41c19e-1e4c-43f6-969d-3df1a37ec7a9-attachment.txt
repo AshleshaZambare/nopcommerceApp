@@ -1,0 +1,2 @@
+INFO     utilities.customLogger:test_login.py:34 *********************** Verifying Login Test ****************************
+INFO     utilities.customLogger:test_login.py:44 **************** Login Test Passed **************************

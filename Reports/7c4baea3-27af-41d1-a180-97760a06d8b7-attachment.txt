@@ -1,0 +1,4 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:125 Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+[32mINFO    [0m utilities.customLogger:test_login.py:16 ******************** Test_001_Login ********************
+[32mINFO    [0m utilities.customLogger:test_login.py:17 *************** Verifying Home Page Title ********************
+[32mINFO    [0m utilities.customLogger:test_login.py:25 **************** Home Page Title Test Passed **************************

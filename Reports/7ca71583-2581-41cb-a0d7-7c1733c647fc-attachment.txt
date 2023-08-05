@@ -1,0 +1,2 @@
+[32mINFO    [0m utilities.customLogger:test_login.py:34 *********************** Verifying Login Test ****************************
+[32mINFO    [0m utilities.customLogger:test_login.py:44 **************** Login Test Passed **************************
